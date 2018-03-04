@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Matrix_ExJava</string>
+    <string name="upperPartButton">upper part</string>
+    <string name="downpartbutton">downPartButton</string>
+    <string name="downPartButton">down part</string>
+    <string name="diagonalsButton">diagonals</string>
+    <string name="borderButton">border</string>
+</resources>
